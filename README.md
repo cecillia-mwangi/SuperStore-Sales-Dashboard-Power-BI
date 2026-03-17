@@ -20,22 +20,39 @@ Support strategic business decisions using visual insights
 The dataset columns.
 
 Row ID	
+
 Order ID	
+
 Order Date	
+
 Ship Date	
+
 Ship Mode	
+
 Customer ID	
+
 Customer Name	
+
 Segment	
+
 Country	
+
 City	
+
 State	
+
 Postal Code	
+
 Region	
+
 Product ID	
+
 Category	
+
 Sub-Category	
+
 Product Name	
+
 Sales
 
 ## Key steps
