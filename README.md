@@ -1,4 +1,4 @@
-# SQL Data Analytics Project
+# Business Intelligence Using Power BI
 
 This project demonstrates how Power BI can be used by data analysts to extract and clean data. The cleaned data can be used to create interactive charts and maps, and build real-time dashboards, which can be used by executives to make informed decisions.
 This project presents an interactive Power BI dashboard built using the SuperStore dataset. The dashboard provides insights into sales performance, profit trends, customer behavior, and regional distribution to support data-driven decision-making.
