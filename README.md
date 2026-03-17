@@ -38,11 +38,11 @@ Sub-Category
 Product Name	
 Sales
 
-## Topics Covered
+## Key steps
 
 Get Data ---> Transform Data ---> Model Data ---> Build Visuals ---> Publish
 
-## SQL fundamentals
+## Key Features
 
 Sales Overview: Total sales, profit, and quantity metrics
 
